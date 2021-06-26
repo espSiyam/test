@@ -7,4 +7,6 @@ int main()
     cout <<food<<endl;
     cout <<"Memory address: "<<&food<<endl;
     cout <<"Address by pointer: " <<ptr;
+    cout << "------------------------------"<<endl;
+    cout << "Let's check the changes"
 }
